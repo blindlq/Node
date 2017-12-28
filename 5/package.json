@@ -1,0 +1,25 @@
+{
+  "name": "5",
+  "version": "0.0.0",
+  "description": "控制并发数量",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blindlq/Node.git"
+  },
+  "author": "zc_906314530@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blindlq/Node/issues"
+  },
+  "homepage": "https://github.com/blindlq/Node#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^0.22.0",
+    "express": "^4.16.2",
+    "superagent": "^3.8.2"
+  }
+}
