@@ -1,0 +1,15 @@
+{
+  "name": "2",
+  "version": "0.0.0",
+  "description": "learn moudle",
+  "main": "app.js",
+  "scripts": {
+    "test": "zc"
+  },
+  "author": "zhangcheng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "utility": "^1.13.1"
+  }
+}
